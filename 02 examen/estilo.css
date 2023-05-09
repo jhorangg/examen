@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    body{
+        text-align: center;
+        background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,221,29,1) 30%, rgba(70,215,178,1) 53%, rgba(30,88,100,1) 65%);
+    }
+    button{
+          height: 20px;
+          width: 50px;
+          background-color: turquoise
+        }
+        v{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(136,201,161,1) 100%);
+        }
+        

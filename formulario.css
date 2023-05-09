@@ -1,0 +1,15 @@
+input[type="radio"]{
+    padding: 6px 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+input[type="mail"]{
+    width: 100%;
+    background: none;
+    border: 1pr solid #f88af8;
+    border-radius: 3px;
+    padding: 6px 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    color: #db84f3;
+}
